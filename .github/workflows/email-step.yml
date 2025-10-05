@@ -1,4 +1,4 @@
-name: IITM Email Action
+name: Email Step Workflow
 
 on:
   push:
