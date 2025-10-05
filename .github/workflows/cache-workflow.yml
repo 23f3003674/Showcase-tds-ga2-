@@ -23,7 +23,6 @@ jobs:
         with:
           path: ~/.cache/demo
           key: cache-5ab0d8c
-          save-always: true
 
       - name: Show cache result
         run: |
