@@ -21,5 +21,3 @@ jobs:
 
       - name: Show cache result
         run: echo "Cache hit: ${{ steps.cache-step.outputs.cache-hit }}"
-
-# Triggered again by Krishna to validate cache workflow
